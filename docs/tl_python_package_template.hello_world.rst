@@ -1,13 +1,13 @@
-python\_package.hello\_world package
-====================================
+tl\_python\_package\_template.hello\_world package
+========================================
 
 Submodules
 ----------
 
-python\_package.hello\_world.hello\_world module
-------------------------------------------------
+tl\_python\_package\_template.hello\_world.hello\_world module
+--------------------------------------------------------------
 
-.. automodule:: python_package.hello_world.hello_world
+.. automodule:: tl_python_package_template.hello_world.hello_world
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ python\_package.hello\_world.hello\_world module
 Module contents
 ---------------
 
-.. automodule:: python_package.hello_world
+.. automodule:: tl_python_package_template.hello_world
    :members:
    :undoc-members:
    :show-inheritance:
