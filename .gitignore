@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+## Entries below this point added by Tim Littlefair, Nov 2025-
+
+# A directory which can be used as a target for experimental output
+_work
+

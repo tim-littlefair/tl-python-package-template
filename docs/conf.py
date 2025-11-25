@@ -18,12 +18,12 @@ sys.path.insert(0, os.path.abspath("../src/"))
 
 # -- Project information -----------------------------------------------------
 
-project = "ai-python docs"
-copyright = "2022, Daniel Ciborowski"
-author = "Daniel Ciborowski"
+project = "tl-python-package-template"
+copyright = "2025, Tim Littlefair"
+author = "Tim Littlefair"
 
 # The full version, including alpha/beta/rc tags
-release = "0.1.0"
+release = "0.0.0"
 
 
 # -- General configuration ---------------------------------------------------
@@ -60,7 +60,9 @@ html_theme = "sphinx_rtd_theme"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ["_static"]
+# Presently commented out to avoid a warning because template project does not
+# have a populated .docs/_static subdirectory.
+# html_static_path = ["_static"]
 
 # Napoleon settings
 napoleon_include_init_with_doc = True
