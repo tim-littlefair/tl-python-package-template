@@ -5,13 +5,13 @@
 """This is a sample python file for testing functions from the source code."""
 from __future__ import annotations
 
-from python_package.hello_world import hello_world
+from tl_python_package_template.hello_world import hello_world
 
 
 def hello_test():
     """
     This defines the expected usage, which can then be used in various test cases.
-    Pytest will not execute this code directly, since the function does not contain the suffex "test"
+    Pytest will not execute this code directly, since the function does not contain the prefix "test"
     """
     hello_world()
 

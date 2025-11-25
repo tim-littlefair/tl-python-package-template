@@ -4,4 +4,4 @@ src
 .. toctree::
    :maxdepth: 4
 
-   python_package
+   tl_python_package_template
