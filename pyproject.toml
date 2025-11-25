@@ -12,7 +12,7 @@ authors = [
     {name = "Tim Littlefair", email = "heretical.camelid@gmail.com"}
 ]
 description = "Sample Python Project for creating a new Python Module"
-readme = "README.md"
+readme = "docs/tl_python_package_template.rst"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
