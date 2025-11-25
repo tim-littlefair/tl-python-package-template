@@ -23,7 +23,7 @@ downstream changes.
 > I have made this repository public on the basis that the integration
 > of outstanding dependabot pull requests may be useful to some users.
 >
-> I am still evalating whether this repository forms a useful basis for
+> I am still evaluating whether this repository forms a useful basis for
 > the work I am considering using it for.  If and when I do determine
 > that it is useful to me I will add some 'how to use' notes of my
 > own.  I reserve the right to abandon work and either leave the
