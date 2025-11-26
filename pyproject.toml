@@ -12,7 +12,7 @@ authors = [
     {name = "Tim Littlefair", email = "heretical.camelid@gmail.com"}
 ]
 description = "Sample Python Project for creating a new Python Module"
-readme = "docs/tl_python_package_template.rst"
+readme = "README.rst"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
@@ -51,9 +51,9 @@ test = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/microsoft/python-package-template/tree/main#readme"
-Source = "https://github.com/microsoft/python-package-template"
-Tracker = "https://github.com/microsoft/python-package-template/issues"
+Documentation = "https://github.com/tim-littlefair/tl-python-package-template/tree/main#readme"
+Source = "https://github.com/tim-littlefair/tl-python-package-template"
+Tracker = "https://github.com/tim-littlefair/tl-python-package-template/issues"
 
 [tool.flit.module]
 name = "tl_python_package_template"

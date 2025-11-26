@@ -39,7 +39,6 @@ extensions = [
     "sphinx.ext.viewcode",  # Add links to highlighted source code
     "sphinx.ext.napoleon",  # to render Google format docstrings
     "sphinx.ext.githubpages",
-    "sphinx_readme",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
